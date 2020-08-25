@@ -10,7 +10,6 @@ if (input <= operasi) {
     alert('Jumlah angkot anda hanya ' + jumlahAngkot);
 } else if (input == lembur) {
     alert('Angkot no. ' + input + ' lembur');
-}
-else {
+} else {
     alert('Angkot no. ' + input + ' tidak beroperasi');
 }
