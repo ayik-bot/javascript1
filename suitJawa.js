@@ -16,6 +16,7 @@ while (tanya) {
     }
 
     var hasil = '';
+
     // rules
     if (p == comp) {
         hasil = 'seri';
