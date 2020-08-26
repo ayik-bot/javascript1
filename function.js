@@ -1,21 +1,9 @@
 function jumlahVolumeDuaKubus(a, b) {
-    var volumeA;
-    var volumeB;
-    var total;
-
-    volumeA = a * a * a;
-    volumeB = b * b * b;
-
-    total = volumeA + volumeB;
-
-    return total;
+    return a * a * a + b * b * b;
 }
 
 function penjumlahan(a, b) {
-    var a;
-    var b;
-    var total = a + b;
-    return total;
+    return a + b;
 }
 
 function tambah() {
